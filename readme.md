@@ -55,7 +55,7 @@ CORS_ORIGIN=http://localhost:3000
 ---
 
 ## 📬 Postman Collection
-- [Run in Postman](https://.postman.co/workspace/My-Workspace~04e5b373-bb77-4a3e-88b7-6ce98905e43b/collection/31349395-898f7ee3-6b8f-4d28-8c4a-10219f1950ac?action=share&creator=31349395&active-environment=31349395-b64d7e0d-89eb-4a13-86e3-4d65ac1f06c4)
+- [Run in Postman](https://postman.co/workspace/My-Workspace~04e5b373-bb77-4a3e-88b7-6ce98905e43b/collection/31349395-898f7ee3-6b8f-4d28-8c4a-10219f1950ac?action=share&creator=31349395&active-environment=31349395-b64d7e0d-89eb-4a13-86e3-4d65ac1f06c4)
 
 ---
 
